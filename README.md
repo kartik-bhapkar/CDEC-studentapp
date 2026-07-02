@@ -1,4 +1,3 @@
-# MariaDB Setup and Configuration Guide for windows
 
 This guide explains how to set up MariaDB, create a database, and Create Database User
 
